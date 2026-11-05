@@ -8,7 +8,7 @@
   - Ganti semua teks yang diawali "✍️" dengan tulisan kelompokmu, lalu hapus tanda ✍️-nya.
   - Blok komentar seperti ini adalah petunjuk; tidak tampil di GitHub. Boleh dihapus.
   - Gambar diambil dari folder hasil/ yang dibuat otomatis oleh notebook.
-  - Jangan hapus judul-judul bagian (##).
+  - Jangan hapus judul-judul bagian (##). 
 -->
 
 **Tugas P10 — Kecerdasan Buatan (BM25-41204), Teknik Biomedis ITERA**
