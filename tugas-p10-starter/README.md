@@ -18,8 +18,8 @@
 | Nama | NIM | Username GitHub | Kontribusi utama |
 |---|---|---|---|
 | Muharrahmi | 123430058 | muharrahmi | ✍️ misal: menjalankan eksperimen, menulis Bagian 3 |
-| ✍️ | ✍️ | ✍️ | ✍️ |
-| ✍️ | ✍️ | ✍️ | ✍️ |
+| Rosa Verettina Pasaribu | 123430089 | rosaverettina-wq |  |
+| Elfrita Andriyanti Hutabarat | 123430080 | elfrita10 |  |
 
 ## 1. Pertanyaan
 
