@@ -83,7 +83,7 @@ hijau adalah
 <!-- Bandingkan hasil dengan hipotesis di Bagian 3. Hipotesis yang ternyata salah tetap bernilai,
      asalkan dijelaskan kenapa. Perbedaan kecil (lebih kecil dari simpangan baku) belum tentu berarti. -->
 
-✍️
+perbedaan signifikan
 
 ## 7. Pembagian kerja
 
