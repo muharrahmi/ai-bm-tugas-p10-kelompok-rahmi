@@ -58,6 +58,13 @@ Contoh augmentasi yang dicoba:
 <!-- Tempel isi hasil/ringkasan.md di sini. -->
 
 ✍️ tempel tabel dari `hasil/ringkasan.md`
+| Skenario | Dice (rata-rata ± sb) | IoU (rata-rata ± sb) | Dice tiap ulangan |
+|---|---|---|---|
+| Tanpa augmentasi | 0.654 ± 0.008 | 0.540 ± 0.010 | 0.650, 0.645, 0.648, 0.667, 0.659 |
+| Flip | 0.691 ± 0.028 | 0.588 ± 0.025 | 0.681, 0.721, 0.680, 0.650, 0.725 |
+| Kecerahan & kontras | 0.627 ± 0.043 | 0.524 ± 0.040 | 0.633, 0.605, 0.557, 0.668, 0.674 |
+| Rotasi | 0.688 ± 0.025 | 0.578 ± 0.026 | 0.690, 0.652, 0.676, 0.696, 0.728 |
+
 
 ![Perbandingan Dice](hasil/perbandingan.png)
 
