@@ -76,7 +76,7 @@ Contoh augmentasi yang dicoba:
      Pertanyaan pemandu: Polip seperti apa yang sering terlewat (kecil? datar? warna mirip dinding usus?)
      Apa yang sering dikira polip padahal bukan? Apakah augmentasi memperbaiki kasus sulit? -->
 
-✍️
+hijau adalah
 
 ## 6. Pembahasan & kesimpulan
 
